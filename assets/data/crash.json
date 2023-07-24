@@ -1,0 +1,159 @@
+{
+    "personajes": [
+      {
+        "id": "crash",
+        "name": "Crash Bandicoot",
+        "description": "El protagonista principal de la serie. Es un bandicoot modificado genéticamente que lucha contra los villanos para salvar su hogar, las Islas Wumpa.",
+        "image": "https://static.wikia.nocookie.net/crash/images/9/9b/Crash_Bandicoot_Crash_2.png/revision/latest?cb=20200722003828&path-prefix=es",
+        "atributos": [
+          "Velocidad",
+          "Salto",
+          "Fuerza"
+        ]
+      },
+      {
+        "id": "coco",
+        "name": "Coco Bandicoot",
+        "description": "La hermana de Crash y también una hábil científica e ingeniera. A menudo acompaña a Crash en sus aventuras.",
+        "image": "https://static.wikia.nocookie.net/crash/images/f/f6/COCO-BANDICOOT-CB4-IAT.png/revision/latest?cb=20200705075225&path-prefix=es",
+        "atributos": [
+          "Inteligencia",
+          "Habilidad en computadoras",
+          "Acrobacias"
+        ]
+      },
+      {
+        "id": "neo-cortex",
+        "name": "Dr. Neo Cortex",
+        "description": "El principal antagonista de la serie. Es un malvado científico que busca conquistar las Islas Wumpa y destruir a Crash Bandicoot.",
+        "image": "https://static.wikia.nocookie.net/crash/images/b/b1/CTTR_cortex.png/revision/latest?cb=20201001031839&path-prefix=es",
+        "atributos": [
+          "Inteligencia",
+          "Maldad",
+          "Habilidades científicas"
+        ]
+      },
+      {
+        "id": "tiny-tiger",
+        "name": "Tiny Tiger",
+        "description": "Un fuerte y malvado tigre que actúa como secuaz de Dr. Neo Cortex. Es uno de los enemigos más fuertes de Crash.",
+        "image": "https://static.wikia.nocookie.net/crash/images/c/cc/Tiny-Tiger.png/revision/latest?cb=20170607024431&path-prefix=es",
+        "atributos": [
+          "Fuerza",
+          "Agresividad",
+          "Resistencia"
+        ]
+      },
+      {
+        "id": "polar",
+        "name": "Polar",
+        "description": "El fiel oso polar que es amigo de Crash Bandicoot. A menudo ayuda a Crash en sus aventuras.",
+        "image": "https://static.wikia.nocookie.net/crash/images/c/c6/9._polar.png/revision/latest?cb=20200409235855&path-prefix=es",
+        "atributos": [
+          "Velocidad",
+          "Agilidad",
+          "Lealtad"
+        ]
+      },
+      {
+        "id": "dingodile",
+        "name": "Dingodile",
+        "description": "Un híbrido entre un dingo y un cocodrilo. Anteriormente era uno de los villanos, pero ahora lucha del lado de Crash y sus amigos.",
+        "image": "https://static.wikia.nocookie.net/crash/images/b/ba/Crash_3_Dingodile.png/revision/latest?cb=20200801212423&path-prefix=es",
+        "atributos": [
+          "Fuego",
+          "Habilidad acuática",
+          "Resistencia al calor"
+        ]
+      },
+      {
+        "id": "pura",
+        "name": "Pura",
+        "description": "El tigre blanco mascota de Coco Bandicoot. A menudo acompaña a Coco en sus aventuras.",
+        "image": "https://static.wikia.nocookie.net/crash/images/2/2f/CTR_Pura.png/revision/latest?cb=20200718024049&path-prefix=es",
+        "atributos": [
+          "Velocidad",
+          "Agilidad",
+          "Saltos precisos"
+        ]
+      },
+      {
+        "id": "crunch",
+        "name": "Crunch Bandicoot",
+        "description": "Un bandicoot modificado genéticamente que fue creado por el Dr. Neo Cortex. Después de ser liberado del control de Cortex, ahora lucha del lado de Crash.",
+        "image": "https://static.wikia.nocookie.net/crash/images/a/ac/19._crunch.png/revision/latest?cb=20200410002527&path-prefix=es",
+        "atributos": [
+          "Fuerza sobrehumana",
+          "Resistencia",
+          "Habilidades de lucha"
+        ]
+      },
+      {
+        "id": "n-gin",
+        "name": "Dr. N. Gin",
+        "description": "Un científico loco y secuaz del Dr. Neo Cortex. Tiene una cabeza mecánica y usa una silla voladora.",
+        "image": "https://static.wikia.nocookie.net/crash/images/9/9e/N.png/revision/latest?cb=20200715212955&path-prefix=es",
+        "atributos": [
+          "Genio científico",
+          "Ingeniería",
+          "Armas avanzadas"
+        ]
+      },
+      {
+        "id": "komodo-bros",
+        "name": "Komodo Bros",
+        "description": "Una pareja de hermanos komodo que actúan como secuaces de Dr. Neo Cortex. Luchan en equipo para detener a Crash.",
+        "image": "https://static.wikia.nocookie.net/crash/images/6/6a/Crash_2_Komodo_Brothers.png/revision/latest?cb=20200718024336&path-prefix=es",
+        "atributos": [
+          "Trabajo en equipo",
+          "Combate con espadas",
+          "Velocidad"
+        ]
+      },
+      {
+        "id": "papu-papu",
+        "name": "Papu Papu",
+        "description": "El líder de la tribu Papu Papu. Es un jefe en la primera isla y lucha contra Crash en una batalla de saltos.",
+        "image": "https://static.wikia.nocookie.net/crash/images/b/bd/Crash_1_Papu_Papu.png/revision/latest?cb=20200718140523&path-prefix=es",
+        "atributos": [
+          "Sabiduría tribal",
+          "Fuerza física",
+          "Conocimiento del terreno"
+        ]
+      },
+      {
+        "id": "pinstripe",
+        "name": "Pinstripe Potoroo",
+        "description": "Un potoroo con una afición por las armas de fuego y el juego. Actúa como jefe en la segunda isla.",
+        "image": "https://static.wikia.nocookie.net/crash/images/d/d0/PinstripeRender.png/revision/latest?cb=20200801214226&path-prefix=es",
+        "atributos": [
+          "Habilidad en el manejo de armas",
+          "Inteligencia",
+          "Determinación"
+        ]
+      },
+      {
+        "id": "n-tropy",
+      "name": "N. Tropy",
+      "description": "Un malvado científico y maestro del tiempo. Es un villano formidable que utiliza su manipulación del tiempo para enfrentar a Crash.",
+      "image": "https://static.wikia.nocookie.net/crash/images/5/53/Crash_3_Doctor_Nefarious_Tropy.png/revision/latest?cb=20200718140402&path-prefix=es",
+      "atributos": [
+        "Control del tiempo",
+        "Inteligencia",
+        "Ambición"
+      ]
+      },
+      {
+        "id": "fake-crash",
+        "name": "Fake Crash",
+        "description": "Una versión falsa de Crash Bandicoot. Aparece en algunos juegos como personaje de broma.",
+        "image": "https://static.wikia.nocookie.net/crash/images/f/f0/Crash_3_Fake_Crash.png/revision/latest?cb=20200722014515&path-prefix=es",
+        "atributos": [
+          "Imitador",
+          "Inocente",
+          "Chistoso"
+        ]
+      }
+    ]
+  }
+  
